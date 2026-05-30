@@ -74,7 +74,7 @@ export const myProjects = [
         • Developed light-based mechanics where enemies freeze under light and move in darkness
         • Worked on all the Game Design, Combat Design, Level Design, Environment Design`,
         href: 'https://drive.google.com/file/d/1_lVOX4vEffk2KZkRiukC2TC9mUEtKk_r/view?usp=sharing',
-        texture: asset('/textures/project/InfinityAsylumDemo.mp4'),
+        texture: 'https://img.youtube.com/vi/ImfNguJd4C4/maxresdefault.jpg',
         logo: asset('/assets/InfinityAsylumIcon.png'),
         logoStyle: {
             backgroundColor: '#2A1816',
@@ -114,7 +114,7 @@ export const myProjects = [
         • Designed gameplay focused on balancing cozy atmosphere with fast-paced movement and reactions
         • Developed the complete game independently, including gameplay design, art direction, UI, and implementation in Unity`,
         href: 'https://drive.google.com/file/d/1pVhbdZLANDlqM5tdTT2JX_qsX_B7lWsO/view?usp=sharing',
-        texture: asset('/textures/project/SerenikittyDemo.mp4'),
+        texture: 'https://img.youtube.com/vi/xfAv3j11X3k/maxresdefault.jpg',
         logo: asset('/assets/SerenikittyIcon.png'),
         logoStyle: {
             backgroundColor: '#13202F',
@@ -150,7 +150,7 @@ export const myProjects = [
             • Designed UI/UX elements and visual presentation to support readability and player interaction
             • Worked within a team environment during rapid game development and iteration`,
         href: 'https://drive.google.com/file/d/1lx99-0COmhXVl-KL0N877Wp0O_bW5Uld/view?usp=sharing',
-        texture: asset('/textures/project/PressureCookersDemo.mp4'),
+        texture: 'https://img.youtube.com/vi/FK9ZFwn0LS4/maxresdefault.jpg',
         logo: asset('/assets/project-logo3.png'),
         logoStyle: {
             backgroundColor: '#60f5a1',
@@ -196,7 +196,7 @@ export const myProjects2 = [
             • Designed melee, ranged, mage, and boss enemy behaviors featuring attacks, blocking, teleportation, perception, and damage response systems
             • Built the framework to support rapid enemy creation, encounter design, and scalable combat systems inspired by AAA-style gameplay experiences`,
         href: 'https://drive.google.com/drive/folders/1rYA6wxJzl0SbvQ-f8ImgbZ4UyecrixdD?usp=sharing',
-        texture: asset('/textures/project/SmartEnemyAI_QuickMontage.mp4'),
+        texture: 'https://img.youtube.com/vi/WDiXWhaHgnk/maxresdefault.jpg',
         logo: asset('/assets/SmartEnemyIcon.png'),
         logoStyle: {
             backgroundColor: '#2A1816',
@@ -229,7 +229,7 @@ export const myProjects2 = [
                 • Created customizable status effect systems including burn and freeze mechanics adaptable to different gameplay requirements
                 • Developed adaptive enemy combat widgets and gameplay systems that respond dynamically to currently equipped weapons and combat states`,
         href: 'https://drive.google.com/file/d/1fCXhF838qlpLVHrFbLE5QhsgdIW9TJcX/view?usp=sharing',
-        texture: asset('/textures/project/RPGGameplayAbilitySystemFramework.mp4'),
+        texture: 'https://img.youtube.com/vi/IiXqXVPQWpE/maxresdefault.jpg',
         logo: asset('/assets/GASIcon.png'),
         logoStyle: {
             backgroundColor: '#13202F',

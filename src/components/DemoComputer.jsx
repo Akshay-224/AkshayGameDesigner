@@ -60,7 +60,7 @@ const ImageScreenMesh = ({ textureUrl, geometry, material, ...meshProps }) => {
 
 const isVideoUrl = (url) => url && (url.endsWith('.mp4') || url.endsWith('.webm') || url.endsWith('.ogg'));
 
-const DEFAULT_TEXTURE = asset('/textures/project/project1.mp4');
+const DEFAULT_TEXTURE = 'https://img.youtube.com/vi/KRxSb-EExRU/maxresdefault.jpg';
 
 const DemoComputer = (props) => {
     const group = useRef()
